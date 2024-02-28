@@ -1,0 +1,11 @@
+name: nlp
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - nltk
+  - gensim
+  - textdistance
+  - scikit-learn
+  - seaborn
+  - wordcloud
