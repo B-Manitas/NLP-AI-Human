@@ -1,4 +1,4 @@
-![image](https://storage.googleapis.com/kaggle-datasets-images/4288635/7379779/4a43561a7fbbeefe2cb730ac6079cdfd/dataset-cover.png?t=2024-01-10-23-36-43)
+![image](https://www.cxtoday.com/wp-content/uploads/2021/06/Natural-Language-Processing-1.png)
 
 # Classification AI vs Human text
 
